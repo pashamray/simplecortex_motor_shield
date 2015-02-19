@@ -1,1 +1,1 @@
-# simplecortex_motor_shield
+# Motor Shield SimpleCortex
