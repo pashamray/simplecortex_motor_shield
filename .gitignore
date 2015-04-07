@@ -1,2 +1,4 @@
 *.b#?
 *.s#?
+*.l#?
+software/eagle/library/*.l#?
